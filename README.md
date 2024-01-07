@@ -17,4 +17,8 @@ Here are some ideas to get you started:
 
 Read more about my projects at [christian.kuendig.info](https://christian.kuendig.info/#portfolio), my most recent posts are:
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- Jan 4, 2024: [Porting ScummVM to Webassembly, Part 3](https://christian.kuendig.info/posts/2024-01-scummvm-part3/)
+- Nov 26, 2023: [HDHomerun Server Emulation in Tvheadend](https://christian.kuendig.info/posts/2023-11-tvheadend-hdhomerun/)
+- Nov 1, 2023: [Github Shortcodes for the Hugo Static Page Generator](https://christian.kuendig.info/posts/2023-11-github-shortcode/)
+- Mar 14, 2023: [Reverse Engineering the 1995 FMV Game Silent Steel](https://christian.kuendig.info/posts/2023-03-silentsteel/)
+- Jan 14, 2023: [How to Add the Amphiro Hand Shower to Home Assistant](https://christian.kuendig.info/posts/2023-01-hass-amphiro/)<!-- BLOG-POST-LIST:END -->
