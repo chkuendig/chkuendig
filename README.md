@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Read more about my projects at [christian.kuendig.info](https://christian.kuendig.info/#portfolio), my most recent posts are:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
