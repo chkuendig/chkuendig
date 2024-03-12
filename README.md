@@ -21,4 +21,7 @@ Read more about my projects at [christian.kuendig.info](https://christian.kuendi
 - Nov 26, 2023: [HDHomerun Server Emulation in Tvheadend](https://christian.kuendig.info/posts/2023-11-tvheadend-hdhomerun/)
 - Nov 1, 2023: [Github Shortcodes for the Hugo Static Page Generator](https://christian.kuendig.info/posts/2023-11-github-shortcode/)
 - Mar 14, 2023: [Reverse Engineering the 1995 FMV Game Silent Steel](https://christian.kuendig.info/posts/2023-03-silentsteel/)
-- Jan 14, 2023: [How to Add the Amphiro Hand Shower to Home Assistant](https://christian.kuendig.info/posts/2023-01-hass-amphiro/)<!-- BLOG-POST-LIST:END -->
+- Jan 14, 2023: [How to Add the Amphiro Hand Shower to Home Assistant](https://christian.kuendig.info/posts/2023-01-hass-amphiro/)
+- Dec 9, 2022: [Forwarding Bluetooth with the AB BLE Gateway](https://christian.kuendig.info/posts/2022-12-hass-ab_ble/)
+- Mar 21, 2022: [Porting ScummVM to Webassembly, Part 2](https://christian.kuendig.info/posts/2022-05-scummvm-part2/)
+- Feb 8, 2022: [HP iLO Integration for Home Assistant](https://christian.kuendig.info/posts/2022-03-hass-hpilo/)<!-- BLOG-POST-LIST:END -->
