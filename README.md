@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 Read more about my projects at [christian.kuendig.info](https://christian.kuendig.info/#portfolio), my most recent posts are:
 <!-- BLOG-POST-LIST:START -->
-- Jan 4, 2024: [Porting ScummVM to Webassembly, Part 3](https://christian.kuendig.info/posts/2024-01-scummvm-part3/)
-- Nov 26, 2023: [HDHomerun Server Emulation in Tvheadend](https://christian.kuendig.info/posts/2023-11-tvheadend-hdhomerun/)
-- Nov 1, 2023: [Github Shortcodes for the Hugo Static Page Generator](https://christian.kuendig.info/posts/2023-11-github-shortcode/)
-- Mar 14, 2023: [Reverse Engineering the 1995 FMV Game Silent Steel](https://christian.kuendig.info/posts/2023-03-silentsteel/)
-- Jan 14, 2023: [How to Add the Amphiro Hand Shower to Home Assistant](https://christian.kuendig.info/posts/2023-01-hass-amphiro/)
-- Dec 9, 2022: [Forwarding Bluetooth with the AB BLE Gateway](https://christian.kuendig.info/posts/2022-12-hass-ab_ble/)
-- Mar 21, 2022: [Porting ScummVM to Webassembly, Part 2](https://christian.kuendig.info/posts/2022-05-scummvm-part2/)
-- Feb 8, 2022: [HP iLO Integration for Home Assistant](https://christian.kuendig.info/posts/2022-03-hass-hpilo/)<!-- BLOG-POST-LIST:END -->
+- Jan 9, 2026: [TRMNL for Our Home](https://christian.kuendig.info/posts/2026-01-trmnl-setup/)
+- Aug 4, 2025: [Porting ScummVM to Webassembly, Part 4c - File Access](https://christian.kuendig.info/posts/2025-08-scummvm-part4c/)
+- Aug 3, 2025: [Porting ScummVM to Webassembly, Part 4b - Sound Improvements](https://christian.kuendig.info/posts/2025-08-scummvm-part4b/)
+- Aug 2, 2025: [Porting ScummVM to Webassembly, Part 4a - Maintenance](https://christian.kuendig.info/posts/2025-08-scummvm-part4a/)
+- Apr 10, 2025: [RetroWave OPL3 Express via Web Serial API](https://christian.kuendig.info/posts/2025-04-retrowave/)
+- Nov 9, 2024: [Our Wedding Website, 5 Years Later](https://christian.kuendig.info/posts/2019-12-wedding/)
+- Jan 26, 2024: [Fixing Play Suisse in yt-dlp](https://christian.kuendig.info/posts/2024-01-playsuisse/)
+- Jan 4, 2024: [Porting ScummVM to Webassembly, Part 3](https://christian.kuendig.info/posts/2024-01-scummvm-part3/)<!-- BLOG-POST-LIST:END -->
