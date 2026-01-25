@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Read more about my projects at [christian.kuendig.info](https://christian.kuendig.info/#portfolio), my most recent posts are:
 <!-- BLOG-POST-LIST:START -->
-- Jan 25, 2026: [Custom Icon for Airprint Printer with Cups](https://christian.kuendig.infohttps://christian.kuendig.info/posts/2026-01-printer-icon/)
+- Jan 25, 2026: [Custom AirPrint Icons with CUPS](https://christian.kuendig.infohttps://christian.kuendig.info/posts/2026-01-printer-icon/)
 - Jan 9, 2026: [My Custom TRMNL Setup For Our Home](https://christian.kuendig.infohttps://christian.kuendig.info/posts/2026-01-trmnl-setup/)
 - Aug 4, 2025: [Porting ScummVM to Webassembly, Part 4c - File Access](https://christian.kuendig.infohttps://christian.kuendig.info/posts/2025-08-scummvm-part4c/)
 - Aug 3, 2025: [Porting ScummVM to Webassembly, Part 4b - Sound Improvements](https://christian.kuendig.infohttps://christian.kuendig.info/posts/2025-08-scummvm-part4b/)
