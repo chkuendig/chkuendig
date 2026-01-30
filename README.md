@@ -22,8 +22,8 @@ Read more about my projects at [christian.kuendig.info](https://christian.kuendi
 - Aug 4, 2025: [Porting ScummVM to Webassembly, Part 4c - File Access](https://christian.kuendig.info/posts/2025-08-scummvm-part4c/)
 - Aug 3, 2025: [Porting ScummVM to Webassembly, Part 4b - Sound Improvements](https://christian.kuendig.info/posts/2025-08-scummvm-part4b/)
 - Aug 2, 2025: [Porting ScummVM to Webassembly, Part 4a - Maintenance](https://christian.kuendig.info/posts/2025-08-scummvm-part4a/)
+- Jul 21, 2025: [How to avoid dynamically inserted podcast ads &lpar;via Youtube&rpar;](https://christian.kuendig.info/posts/2025-07-podsync/)
 - Apr 10, 2025: [RetroWave OPL3 Express via Web Serial API](https://christian.kuendig.info/posts/2025-04-retrowave/)
 - Nov 9, 2024: [Our Wedding Website, 5 Years Later](https://christian.kuendig.info/posts/2019-12-wedding/)
 - Jan 26, 2024: [Fixing Play Suisse in yt-dlp](https://christian.kuendig.info/posts/2024-01-playsuisse/)
-- Jan 4, 2024: [Porting ScummVM to Webassembly, Part 3](https://christian.kuendig.info/posts/2024-01-scummvm-part3/)
-- Nov 26, 2023: [HDHomerun Server Emulation in Tvheadend](https://christian.kuendig.info/posts/2023-11-tvheadend-hdhomerun/)<!-- BLOG-POST-LIST:END -->
+- Jan 4, 2024: [Porting ScummVM to Webassembly, Part 3](https://christian.kuendig.info/posts/2024-01-scummvm-part3/)<!-- BLOG-POST-LIST:END -->
