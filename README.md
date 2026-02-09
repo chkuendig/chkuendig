@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 Read more about my projects at [christian.kuendig.info](https://christian.kuendig.info/#portfolio), my most recent posts are:
 <!-- BLOG-POST-LIST:START -->
+- Feb 8, 2026: [Extracting Credit Information from Delisted Mobile Games](https://christian.kuendig.info/posts/2026-02-extracting-game-credits/)
 - Jan 25, 2026: [Custom AirPrint Icons with CUPS](https://christian.kuendig.info/posts/2026-01-printer-icon/)
 - Jan 9, 2026: [My Custom TRMNL Setup For Our Home](https://christian.kuendig.info/posts/2026-01-trmnl-setup/)
 - Aug 4, 2025: [Porting ScummVM to Webassembly, Part 4c - File Access](https://christian.kuendig.info/posts/2025-08-scummvm-part4c/)
@@ -25,5 +26,4 @@ Read more about my projects at [christian.kuendig.info](https://christian.kuendi
 - Jul 21, 2025: [How to avoid dynamically inserted podcast ads &lpar;via Youtube&rpar;](https://christian.kuendig.info/posts/2025-07-podsync/)
 - Apr 10, 2025: [RetroWave OPL3 Express via Web Serial API](https://christian.kuendig.info/posts/2025-04-retrowave/)
 - Nov 9, 2024: [Our Wedding Website, 5 Years Later](https://christian.kuendig.info/posts/2019-12-wedding/)
-- Jan 26, 2024: [Fixing Play Suisse in yt-dlp](https://christian.kuendig.info/posts/2024-01-playsuisse/)
-- Jan 4, 2024: [Porting ScummVM to Webassembly, Part 3](https://christian.kuendig.info/posts/2024-01-scummvm-part3/)<!-- BLOG-POST-LIST:END -->
+- Jan 26, 2024: [Fixing Play Suisse in yt-dlp](https://christian.kuendig.info/posts/2024-01-playsuisse/)<!-- BLOG-POST-LIST:END -->
